@@ -1,4 +1,3 @@
-### Projects
 Here is a list of projects I'm currently working on. Click on the project name below to be taken to the documentation!  
 
 ​
